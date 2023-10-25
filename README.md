@@ -1,5 +1,7 @@
 # recipes
 
+A recipe repository for the GenEpi-BioTrain workshop, initially designed and developed at Clinical Genomics, Stockholm.
+
 ## Submit a recipe
 
 Looking to submit a recipe? Follow these instructions:
