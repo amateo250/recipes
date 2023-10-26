@@ -4,7 +4,7 @@ A recipe repository for the GenEpi-BioTrain workshop, initially designed and dev
 
 ## Submit a recipe
 
-Looking to submit a recipe? Follow these instructions:
+Looking to submit a recipe? Follow the instructions below:
 
 ### Open a pull request with the recipe you wish to add
 
