@@ -18,9 +18,4 @@ A simple guide on how to open a general pull request in GitHub can be found [her
 
 A guide on how to create a pull request using the GitHub web editor is present [here](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)
 
-### Previewing the contents using mkdocs serve
 
-This option is only available if you have the repository installed locally. You could preview the content of the docs folder by running:
-```
-mkdocs serve
-```
