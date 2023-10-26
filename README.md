@@ -1,6 +1,6 @@
 # recipes
 
-A recipe repository for the GenEpi-BioTrain workshop, initially designed and developed at Clinical Genomics, Stockholm.
+A recipe repository for the GenEpi-BioTrain workshop, initially designed and developed at Clinical Genomics, Stockholm. https://github.com/Clinical-Genomics/meatballs
 
 ## Submit a recipe
 
