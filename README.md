@@ -18,4 +18,4 @@ A simple guide on how to open a general pull request in GitHub can be found [her
 
 A guide on how to create a pull request using the GitHub web editor is present [here](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)
 
-
+Markdown cheat sheet (https://www.markdownguide.org/cheat-sheet/
